@@ -24,5 +24,5 @@ This project serves as an educational tool to:
 ## Learn More
 
 To learn more about reentrancy attacks and best practices for writing secure Solidity contracts, visit the following resources:
-- [Solidity Documentation - Security Considerations](https://soliditylang.org/docs/security/)
-- [Reentrancy Attacks - ConsenSys](https://consensys.github.io/smart-contract-best-practices/security_considerations/reentrancy/)
+- [Solidity Documentation - Security Considerations](https://docs.soliditylang.org/en/v0.8.10/security-considerations.html)
+- [Reentrancy Attacks - ConsenSys](https://scsfg.io/hackers/reentrancy/#single-function-reentrancy)
